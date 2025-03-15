@@ -39,8 +39,8 @@
 </p>
 
 <p align="center">
-<!--   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MUHAMMAD-AMMAR-TANWEER&show_icons=true&theme=tokyonight&count_private=true" /> -->
-<!--   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?username=MUHAMMAD-AMMAR-TANWEER&theme=tokyonight" /> -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MUHAMMAD-AMMAR-TANWEER&show_icons=true&theme=tokyonight&count_private=true" />
+<!--   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?username=MUHAMMAD-AMMAR-TANWEER&theme=tokyonight" />z -->
 </p>
 
 <p align="center">
