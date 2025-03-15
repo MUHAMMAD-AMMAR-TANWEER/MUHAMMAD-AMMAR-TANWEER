@@ -31,30 +31,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
-### 🚀 Signature Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">SparkEngine.ai</h3>
-      <div align="center">
-        <a href="https://github.com/MUHAMMAD-AMMAR-TANWEER/sparkengine" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MUHAMMAD-AMMAR-TANWEER&repo=sparkengine&theme=tokyonight" width="100%" alt="Project Card"/>
-        </a>
-      </div>
-      <p align="center">No-code AI platform builder that democratizes machine learning development</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">DApp Accelerator</h3>
-      <div align="center">
-        <a href="https://github.com/MUHAMMAD-AMMAR-TANWEER/dapp-accelerator" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MUHAMMAD-AMMAR-TANWEER&repo=dapp-accelerator&theme=tokyonight" width="100%" alt="Project Card"/>
-        </a>
-      </div>
-      <p align="center">Blockchain development framework that enhances development speed by 1000x</p>
-    </td>
-  </tr>
-</table>
 
 ### 📊 GitHub Analytics
 
