@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Your Name]
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm MUHAMMAD-AMMAR-TANWEER
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Electrical+Systems+Engineering+Student;AI+Platform+Builder;Blockchain+Developer;Algorithm+Enthusiast)](https://git.io/typing-svg)
 
@@ -14,35 +14,78 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
+### 🚀 Signature Projects
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">SparkEngine.ai</h3>
+      <div align="center">
+        <a href="https://github.com/MUHAMMAD-AMMAR-TANWEER/sparkengine" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MUHAMMAD-AMMAR-TANWEER&repo=sparkengine&theme=tokyonight" width="100%" alt="Project Card"/>
+        </a>
+      </div>
+      <p align="center">No-code AI platform builder that democratizes machine learning development</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">DApp Accelerator</h3>
+      <div align="center">
+        <a href="https://github.com/MUHAMMAD-AMMAR-TANWEER/dapp-accelerator" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MUHAMMAD-AMMAR-TANWEER&repo=dapp-accelerator&theme=tokyonight" width="100%" alt="Project Card"/>
+        </a>
+      </div>
+      <p align="center">Blockchain development framework that enhances development speed by 1000x</p>
+    </td>
+  </tr>
+</table>
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MUHAMMAD-AMMAR-TANWEER&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MUHAMMAD-AMMAR-TANWEER&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="Trophy" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MUHAMMAD-AMMAR-TANWEER&show_icons=true&theme=radical&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MUHAMMAD-AMMAR-TANWEER&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MUHAMMAD-AMMAR-TANWEER&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MUHAMMAD-AMMAR-TANWEER&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMAD-AMMAR-TANWEER&layout=compact&theme=radical" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMAD-AMMAR-TANWEER&layout=compact&theme=tokyonight" width="58%" />
 </p>
 
+<!-- Note: The GitHub activity graph may not be working due to the service being deprecated -->
+<!-- Alternative contribution graph: -->
+<a href="https://github.com/MUHAMMAD-AMMAR-TANWEER/github-readme-activity-graph">
+  <img alt="Muhammad Ammar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMAD-AMMAR-TANWEER&theme=tokyo-night&hide_border=true" />
+</a>
+
+### 💡 DevOps & Cloud Infrastructure
+
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=MUHAMMAD-AMMAR-TANWEER&theme=redical" width="100%" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ### 🌱 Current Research & Development
@@ -66,9 +109,49 @@ mindmap
       Microservices
       Distributed Systems
       Real-time Processing
+    DevOps & Cloud
+      AWS Infrastructure
+      Terraform Automation
+      Container Orchestration
 ```
 
+### 🧠 Core Skills & Expertise
 
+<details>
+  <summary>AI & Machine Learning</summary>
+  <br>
+  <ul>
+    <li>Deep Learning Model Design & Training</li>
+    <li>Natural Language Processing</li>
+    <li>Computer Vision Applications</li>
+    <li>LLM Fine-tuning & Prompt Engineering</li>
+    <li>MLOps & Model Deployment</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Blockchain Development</summary>
+  <br>
+  <ul>
+    <li>Smart Contract Development</li>
+    <li>DApp Frontend Engineering</li>
+    <li>Web3 Infrastructure</li>
+    <li>Token Economics</li>
+    <li>Cross-chain Solutions</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Cloud & Infrastructure</summary>
+  <br>
+  <ul>
+    <li>AWS Architecture Design</li>
+    <li>Infrastructure as Code (Terraform)</li>
+    <li>Container Orchestration</li>
+    <li>CI/CD Pipeline Implementation</li>
+    <li>Performance Optimization</li>
+  </ul>
+</details>
 
 ### 🔍 Weekly Development Breakdown
 
@@ -91,6 +174,13 @@ Markdown     25 mins         ░░░░░░░░░░░░░░░░░
   <a href="https://sparkengine.ai/"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/MUHAMMAD-AMMAR-TANWEER/count.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MUHAMMAD-AMMAR-TANWEER&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
-<img src="https://raw.githubusercontent.com/MUHAMMAD-AMMAR-TANWEER/MUHAMMAD-AMMAR-TANWEER/output/github-contribution-grid-snake.svg" width="100%" />
+<!-- Note: The snake animation requires a GitHub Action to be set up -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MUHAMMAD-AMMAR-TANWEER/MUHAMMAD-AMMAR-TANWEER/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MUHAMMAD-AMMAR-TANWEER/MUHAMMAD-AMMAR-TANWEER/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MUHAMMAD-AMMAR-TANWEER/MUHAMMAD-AMMAR-TANWEER/output/github-contribution-grid-snake.svg">
+</picture>
