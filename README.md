@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Electrical+Systems+Engineer;Full-Stack+Developer;AI+Platform+Innovator;Blockchain+Architect;Algorithm+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Computer+Engineer;Full-Stack+Developer;AI+Platform+Innovator;Blockchain+Architect;Algorithm+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,10 +12,10 @@
 
 ## <div align="center">💫 About Me</div>
 
-> 🧠 *Building at the intersection of AI, blockchain, and electrical systems engineering.*  
+> 🧠 *Building at the intersection of AI, blockchain, and computer engineering.*  
 > 🚀 Founder of [SparkEngine.ai](https://sparkengine.ai) — democratizing AI development  
 > 🔗 Lead architect on revolutionary DApp acceleration technology  
-> 🎓 M.S. in Electrical Systems Engineering with focus on AI/ML applications  
+> 🎓 M.S. in Computer Engineering with focus on AI/ML applications  
 > 💡 Open-source contributor & technical writer
 
 <div align="center">
